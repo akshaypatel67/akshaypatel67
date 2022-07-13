@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Patel</h1>
 <h3 align="center">A passionate computer science student from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypatel67&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatel67" /> </p>
-
 - 🔭 I am passionate about **android development, full stack development and problem solving**
 
 - 🎓 I am currently pursuing my **bachelor's degree in computer science**
@@ -22,3 +20,5 @@
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaypatel67&show_icons=true&theme=onedark)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypatel67&layout=compact&theme=onedark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypatel67&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypatel67" /> </p>
